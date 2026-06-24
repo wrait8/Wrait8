@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Wraith
 
-<!--
-**wrait8/Wrait8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/wrait8?style=social)](https://github.com/wrait8)
+[![Twitter](https://img.shields.io/twitter/follow/wrait8?style=social)](https://twitter.com/wrait8)
 
-Here are some ideas to get you started:
+> Security researcher · RF enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a **security researcher** and **hardware hacker** passionate about:
+- 📡 **RF hacking** – sub‑1 GHz, SDR, reverse engineering wireless protocols
+- 🐍 **Python** – building tools for security research
+- 🔐 **Penetration testing** – wireless and physical security
